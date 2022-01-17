@@ -14,7 +14,7 @@ class Word:
         return self.english + "," + self.chinese + "," + self.times + "," + self.error + "\n"
 
     def show_self(self):
-        print(self.chinese, self.english, self.error, self.times)
+        print(self.english, self.chinese, self.error, self.times)
 
     def __lt__(self, other):
         if self.error > other.error:

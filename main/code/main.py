@@ -22,8 +22,11 @@ if __name__ == '__main__':
             break
         elif select == '1':
             start.add_word()
+        elif select == '2':
+            start.memory_word()
         elif select == '3':
             start.show_word()
         os.system("pause")
+        os.system("cls")
 
 # 运行结果
