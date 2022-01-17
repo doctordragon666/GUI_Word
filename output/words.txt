@@ -1,0 +1,10 @@
+old,年纪,4,1
+name,姓名,3,0
+convert,转化,2,0
+bless,祝福,1,0
+algorithm,算法,1,0
+iterator,迭代器,1,0
+away,离开,1,0
+delete,删除,1,0
+sufficient,足够的,1,1
+therapy,治疗,0,0
