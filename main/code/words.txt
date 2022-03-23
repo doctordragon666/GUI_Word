@@ -8,3 +8,4 @@ iterator,迭代器,1,0
 away,离开,1,0
 delete,删除,1,0
 therapy,治疗,0,0
+测试,this,0,0
