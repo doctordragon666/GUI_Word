@@ -5,7 +5,7 @@
 # 注意事项
 import random
 
-from word import Word
+from main.dataframe.word import Word
 
 
 class Fun:
