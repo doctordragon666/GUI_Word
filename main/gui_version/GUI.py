@@ -181,6 +181,11 @@ def save(self: list):
 
 
 def show_word(self: list):
+    """
+    显示单词
+    :param self:单词
+    :return:
+    """
     self.sort()
     seed = ''
     for word in self:
@@ -189,6 +194,11 @@ def show_word(self: list):
 
 
 def search_word(self: list):
+    """
+    查找单词
+    :param self:
+    :return:
+    """
     while True:
         self_dic = {}
         for i in self:
