@@ -1,0 +1,11 @@
+old,年纪,5,2
+sufficient,足够的,2,2
+convert,转化,3,1
+algorithm,算法,2,1
+iterator,迭代器,2,1
+away,离开,2,1
+delete,删除,2,1
+therapy,治疗,1,1
+测试,this,1,1
+name,姓名,4,0
+bless,祝福,1,0
