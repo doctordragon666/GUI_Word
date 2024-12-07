@@ -7,6 +7,7 @@
 class Word:
     def __init__(self, chinese, english, times='0', error='0'):
         """单词类定义：中文英文次数错误"""
+        # self.dic = {chinese:english}
         self.chinese = chinese
         self.english = english
         self.times = times  # 记忆次数

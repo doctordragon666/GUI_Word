@@ -75,7 +75,7 @@ settings = Setting(settingsFilename)
 
 def init_lst(self: list):
     """初始化单词列表"""
-    with open('../src/word.txt', 'r', encoding='utf-8') as w:
+    with open('src/word.txt', 'r', encoding='utf-8') as w:
         lst = w.readlines()
         for line in lst:
             w = line.strip('\n').split(',')

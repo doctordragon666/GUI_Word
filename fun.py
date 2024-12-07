@@ -1,8 +1,6 @@
 # -*- coding:utf-8 -*-
-# 时间：2022年9月11日23点35分
-# 功能：
-# 目的：
-# 注意事项
+# time: 2024年12月7日20点24分
+# decription: 功能函数类
 import random
 
 from word import Word

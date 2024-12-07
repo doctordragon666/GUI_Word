@@ -9,3 +9,4 @@ therapy,治疗,1,1
 测试,this,1,1
 name,姓名,4,0
 bless,祝福,1,0
+如果,if,0,0
