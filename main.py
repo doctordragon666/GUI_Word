@@ -4,7 +4,7 @@
 # 目的：
 # 注意事项
 import random
-from lib.fun import Fun
+from fun import Fun
 
 import os
 

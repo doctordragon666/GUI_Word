@@ -5,7 +5,7 @@
 # 注意事项
 import random
 
-from lib.word import Word
+from word import Word
 
 
 class Fun:

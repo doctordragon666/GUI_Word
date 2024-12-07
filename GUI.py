@@ -8,7 +8,7 @@ import random
 
 from easygui import *
 
-from lib.word import Word
+from word import Word
 
 
 #
